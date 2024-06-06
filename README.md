@@ -1,1 +1,1 @@
-# neo4j-java-driver-perf
+# neo4j-query-api-perf
